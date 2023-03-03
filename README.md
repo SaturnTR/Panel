@@ -32,5 +32,5 @@ namespace DefaultLocalCharacter
 ```
 <details>
     <summary>So, Just Why?</summary>
-    Now You Can Easily Leave On Real Life Server Without Getting More Stress Damage!
+    <b>Now You Can Easily Leave On Real Life Server Without Getting More Stress Damage!</b>
 </details>
