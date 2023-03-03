@@ -1,5 +1,6 @@
-# [The Goofiest Panel](https://github.com/SaturnTR/Panel)
-Ahm, Hello! This App Gives Some Data Information About Your IP Adress &amp; Internet! 😐
+# [The Panel](https://github.com/SaturnTR/Panel)
+Ahm, Hello! Firstly, I'm Noob At Coding! 😐
+
 
 Btw, Here Is The Best Code Ever Made!
 ```csharp
