@@ -32,6 +32,14 @@ namespace DefaultLocalCharacter
 }
 ```
 <details>
-    <summary><h3>So, Just Why?</h3></summary>
+    <summary><h3>So, Just Why?</h3></summary> ❓
     <b>You Can Easily Leave From This Fully Of Bullshit Real Life Server Without Getting More Stress Damage!</b>
+</details>
+<details>
+    <summary><h3>Working On;</h3></summary> ❓
+    <ul>
+        <li>
+            ev
+        </li>
+    </ul>
 </details>
