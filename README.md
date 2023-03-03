@@ -48,7 +48,7 @@ namespace DefaultLocalCharacter
     }
 }
 ```
-<h3>Here Is More Detail!</h3>
+<h3>File Details!;</h3>
 
 ```json
 {
