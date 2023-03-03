@@ -51,7 +51,7 @@ namespace DefaultLocalCharacter
 ```
 
 <details>
-    <summary><h3>File Details;</h3></summary> 
+    <summary><h3>File Details; 🌟</h3></summary>
     
 ```json
 {
@@ -62,11 +62,11 @@ namespace DefaultLocalCharacter
 </details>
 
 <details>
-    <summary><h3>So, Just Why? 💫</h3></summary> 
+    <summary><h3>So, Just Why? ☔</h3></summary> 
         <li><b>You Can Easily Leave From This Fully Of Bullshit Real Life Server Without Getting More Stress Damage!</b></li>
 </details>
 <details>
-    <summary><h3>Working On; 💫</h3></summary>
+    <summary><h3>Working On; 🔥</h3></summary>
     <ul>
         <li><b>Protection From Kick By God On The Way To Heaven!</b></li>
     </ul>
