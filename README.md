@@ -51,9 +51,8 @@ namespace DefaultLocalCharacter
 <h3>Here Is More Detail!</h3>
 
 ```env
-
-{}
-
+ENV="branch"
+branch=true
 ```
 <details>
     <summary><h3>So, Just Why? 💫</h3></summary> 
