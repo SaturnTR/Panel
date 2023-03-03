@@ -1,3 +1,2 @@
 # Panel
-Ahm, Hello! This App Gives Some Data Information About Your IP Adress &amp; Internet! 
-## Ex
+Ahm, Hello! This App Gives Some Data Information About Your IP Adress &amp; Internet! ✅
