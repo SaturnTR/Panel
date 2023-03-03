@@ -48,6 +48,10 @@ namespace DefaultLocalCharacter
     }
 }
 ```
+<h3>Here Is More Detail!</h3>
+```env
+MARK="asdasdas"
+```
 <details>
     <summary><h3>So, Just Why? 💫</h3></summary> 
         <li><b>You Can Easily Leave From This Fully Of Bullshit Real Life Server Without Getting More Stress Damage!</b></li>
