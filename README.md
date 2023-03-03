@@ -55,7 +55,11 @@ namespace DefaultLocalCharacter
     
 ```json
 {
-   "local?": "true"
+   "local?": true,
+   "": "",
+   "": "",
+   "": "",
+   "": "",
 }
 ```
 
