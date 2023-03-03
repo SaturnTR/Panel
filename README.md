@@ -31,6 +31,6 @@ namespace DefaultLocalCharacter
 }
 ```
 <details>
-    <summary><h1>So, Just Why?</h1></summary>
+    <summary><h3>So, Just Why?</h3></summary>
     <b>Now You Can Easily Leave On Real Life Server Without Getting More Stress Damage!</b>
 </details>
