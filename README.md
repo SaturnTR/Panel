@@ -18,7 +18,7 @@ namespace DefaultLocalCharacter
         }
         public static void Character(String[] args)
         }
-            // Why You Still Reading This? You Wasted Your Seconds For Only 1 Line Of Code Right Now, Sir!
+            // Why You Still Reading This? You Wasted Your Seconds For Only 1 Line Of Text Right Now, Sir!
         }        
         public void DefaultCharacter_Load(object sender, EventArgs e)
         {
