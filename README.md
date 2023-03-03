@@ -55,13 +55,27 @@ namespace DefaultLocalCharacter
     
 ```json
 {
-   "local?": true,
-   "author": "Saturn Kral",
-   "tag": "#1945",
-   "file-publish-date": "03/04/2023",
-   "c#?": true,
-   "html?": "true",
-   "javascript?": "false"
+   "main-information": {
+         "panel-activation-output-value": 1,
+         "local?": true,
+         "author": "Saturn Kral",
+         "tag": "#1945",
+         "file-publish-date": "03/04/2023"
+      },
+   "supported-file-types": {
+         "c#?": true,
+         "c++?": false,
+         "c?": false,
+         "html?": true,
+         "javascript?": true,
+         "php?": false,
+         "css?": true,
+         "python?": true,
+         "pycord?": true,
+         "json?": true,
+         "env?": true,
+         "markdown?": true
+      }
 }
 ```
 
