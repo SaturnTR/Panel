@@ -49,7 +49,7 @@ namespace DefaultLocalCharacter
 }
 ```
 <h3>Here Is More Detail!</h3>
-```env
+```json
 MARK="asdasdas"
 ```
 <details>
