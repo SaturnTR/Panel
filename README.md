@@ -38,6 +38,6 @@ namespace DefaultLocalCharacter
 <details>
     <summary><h3>Working On; 💫</h3></summary>
     <ul>
-        <li><b>Protection From Kick By God On The Way To Heaven</b></li>
+        <li><b>Protection From Kick By God On The Way To Heaven!</b></li>
     </ul>
 </details>
