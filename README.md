@@ -1,4 +1,4 @@
-# [Panel The Bad Boy](https://github.com/SaturnTR/Panel)
+# [Panel The Bad Boyy](https://github.com/SaturnTR/Panel)
 <h2>Ahm, Hello! Firstly, I'm Noob At Coding! 😐</h2>
 
 
