@@ -21,7 +21,7 @@ namespace DefaultLocalCharacter
         }
             // Why You Still Reading This? You Wasted Your Seconds For Only 1 Line Of Text Right Now, Sir!
         }        
-        private void DefaultCharacter_Load(object sender, EventArgs e)
+        public void DefaultCharacter_Load(object sender, EventArgs e)
         {
            if(yourIQ < 80 == true)
            {
