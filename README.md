@@ -56,10 +56,12 @@ namespace DefaultLocalCharacter
 ```json
 {
    "local?": true,
-   "": "",
-   "": "",
-   "": "",
-   "": "",
+   "author": "Saturn Kral",
+   "tag": "#1945",
+   "file-publish-date": "03/04/2023",
+   "c#?": true,
+   "html?": "true",
+   "javascript?": "false"
 }
 ```
 
