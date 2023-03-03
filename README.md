@@ -49,8 +49,11 @@ namespace DefaultLocalCharacter
 }
 ```
 <h3>Here Is More Detail!</h3>
-```json
+
+```env
+
 {}
+
 ```
 <details>
     <summary><h3>So, Just Why? 💫</h3></summary> 
