@@ -30,4 +30,8 @@ namespace DefaultLocalCharacter
     }
 }
 ```
-||Now You Can Easily Leave On Real Life Server Without Getting More Stress Damage!||
+<details>
+    <summary>So, Just Why?</summary>
+    Now You Can Easily Leave On Real Life Server Without Getting More Stress Damage!
+</details>
+Now You Can Easily Leave On Real Life Server Without Getting More Stress Damage!
