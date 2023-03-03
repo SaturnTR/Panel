@@ -59,7 +59,7 @@ namespace DefaultLocalCharacter
     </ul>
 </details>
 <details>
-    <summary><h3>Rule 1. 💫</h3></summary>
+    <summary><h3>Can We Fall From Heaven? 💫</h3></summary>
     <ul>
         <li><b>Ahm, Oh, Uh! I Don't Wanna Talk About It! 😨</b></li>
     </ul>
