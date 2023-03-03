@@ -49,12 +49,16 @@ namespace DefaultLocalCharacter
 }
 ```
 <h3>File Details!;</h3>
+<details>
 
 ```json
 {
    "local?": "true"
 }
 ```
+
+</details>
+
 <details>
     <summary><h3>So, Just Why? 💫</h3></summary> 
         <li><b>You Can Easily Leave From This Fully Of Bullshit Real Life Server Without Getting More Stress Damage!</b></li>
