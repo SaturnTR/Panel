@@ -39,7 +39,7 @@ namespace DefaultLocalCharacter
     <summary><h3>Working On; 💫</h3></summary>
     <ul>
         <li>
-            <b>Kick Protection While Going To Heaven By God</b>
+            <b>Protection From Kick By God On The Way To Heaven/b>
         </li>
     </ul>
 </details>
