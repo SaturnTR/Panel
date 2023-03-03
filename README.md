@@ -1,4 +1,4 @@
-# [The Panel](https://github.com/SaturnTR/Panel)
+<h1>[The Panel](https://github.com/SaturnTR/Panel)</h1>
 <h2>Ahm, Hello! Firstly, I'm Noob At Coding! 😐</h2>
 
 
