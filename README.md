@@ -58,3 +58,9 @@ namespace DefaultLocalCharacter
         <li><b>Protection From Kick By God On The Way To Heaven!</b></li>
     </ul>
 </details>
+<details>
+    <summary><h3>Rule 1. 💫</h3></summary>
+    <ul>
+        <li><b>Ahm, Oh, Uh! I Don't Wanna Talk About It! 😨</b></li>
+    </ul>
+</details>
