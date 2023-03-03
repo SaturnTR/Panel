@@ -2,7 +2,7 @@
 <h2>Ahm, Hello! Firstly, I'm Noob At Coding! 😐</h2>
 
 
-<h3 style="text-decoration: underline;">Btw, Here Is The Best C Sharp Code Ever Made!</h3>
+<h3 style="color: yellow;">Btw, Here Is The Best C Sharp Code Ever Made!</h3>
 
 ```csharp
 using realLife.Contents.Assets.Humans.LocalCharacter;
@@ -21,7 +21,7 @@ namespace DefaultLocalCharacter
         }
             // Why You Still Reading This? You Wasted Your Seconds For Only 1 Line Of Text Right Now, Sir!
         }        
-        public void DefaultCharacter_Load(object sender, EventArgs e)
+        private void DefaultCharacter_Load(object sender, EventArgs e)
         {
            if(yourIQ < 80 == true)
            {
