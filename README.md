@@ -58,6 +58,7 @@ namespace DefaultLocalCharacter
    "main-information": {
          "panel-activation-output-value": 1,
          "local?": true,
+         "public?": true,
          "author": "Saturn Kral",
          "tag": "#1945",
          "file-publish-date": "03/04/2023"
