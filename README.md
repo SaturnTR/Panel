@@ -47,10 +47,12 @@ namespace DefaultLocalCharacter
         }
     }
 }
-```
-<h3>File Details!;</h3>
-<details>
 
+```
+
+<details>
+    <summary><h3>File Details;</h3></summary> 
+    
 ```json
 {
    "local?": "true"
